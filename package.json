@@ -1,0 +1,22 @@
+{
+  "name": "wrapper-kaze-apis",
+  "version": "1.0.0",
+  "description": "A wrapper library for KAZE APIs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kaze",
+    "api",
+    "wrapper",
+    "ai"
+  ],
+  "author": "KazeDevID",
+  "license": "MIT",
+  "exports": {
+    "import": "./index.js",
+    "require": "./index.js"
+  }
+}
