@@ -1,6 +1,3 @@
-import KazeAPI from './lib/api.js'
+const KazeAPI = require('./lib/api.js');
 
-export default KazeAPI
-
-
-module.exports = KazeAPI
+module.exports = KazeAPI;
