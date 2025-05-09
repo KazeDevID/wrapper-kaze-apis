@@ -1,6 +1,6 @@
 {
   "name": "wrapper-kaze-apis",
-  "version": "1.0.0-cjs",
+  "version": "1.0.1",
   "description": "A wrapper library for KAZE APIs",
   "main": "index.js",
   "scripts": {
